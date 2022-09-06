@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/bruno34154/Video-maker/issues"
   },
-  "homepage": "https://github.com/bruno34154/Video-maker#readme"
+  "homepage": "https://github.com/bruno34154/Video-maker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
